@@ -43,3 +43,7 @@ Because the `console.log(i)` expression executed after the `for-loop` as we set 
 10
 10
 ```
+
+# Reference
+- [Variable Declarations](https://www.typescriptlang.org/docs/handbook/variable-declarations.html)
+- [ES6 In Depth: let and const](https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/)
