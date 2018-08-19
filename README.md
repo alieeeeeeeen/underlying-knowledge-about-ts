@@ -2,4 +2,4 @@
 
 Some underlying but important knowledge about ts and es6
 
-- [let](tree/master/variable-declarations)
+- [let](variable-declarations/)
