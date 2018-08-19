@@ -6,7 +6,7 @@ ECMAScript 6 introduced [the let statement](https://developer.mozilla.org/en-US/
 
 ### Scopes
 
-** The scope of var declared in a JS function is the whole body of the function  **. You may never notiecd before. Let's walk through a scenario.
+**The scope of var declared in a JS function is the whole body of the function**. You may never notiecd before. Let's walk through a scenario.
 
 ```
   function f(a: boolean) {
